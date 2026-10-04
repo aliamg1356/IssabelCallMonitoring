@@ -39,11 +39,11 @@ Developed by Hamed Koohfallah (VOIPIRAN) – completely free for everyone.
 ## Installation
 Just Copy and Paste on your Linux CLI:
 ```
-curl -L -o callmonitoring.zip https://github.com/voipiran/IssabelCallMonitoring/archive/master.zip && \
-unzip -o callmonitoring.zip && \
-cd IssabelCallMonitoring-main && \
-chmod 755 install2.sh && \
-./install2.sh
+curl -L -o voiz-issabel-monitoring.zip https://github.com/voipiran/voiz-issabel-monitoring/archive/main.zip \
+&& unzip -o voiz-issabel-monitoring.zip \
+&& cd voiz-issabel-monitoring-main \
+&& chmod 755 install2.sh \
+&& ./install2.sh
 ```
 
 ## Give a Star! ⭐ یک ستاره با ما بدهید
